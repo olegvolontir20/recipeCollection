@@ -1,0 +1,282 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Tomato Stew",
+      "imagePath": "recipe1.jpg",
+      "description": "A delicious and healthy dish made of tomatoes and beef iwth some cheese on top",
+      "instruction": "Drizzle olive oil in a large dutch oven or pot on medium-high heat, until oil is hot and glistening.  Add cubed beef and sear meat on all sides until browned, about 5 minutes.  Next add in the rest of the ingredients and bring everything to a boil.  Cover and simmer for about 2 to 3 hours, until meat and veggies are tender. Serve and enjoy!",
+      "ingredients": [
+        {
+          "id": 1,
+          "name": "Tomato",
+          "quantity": 500,
+          "unit": "g"
+        },
+        {
+          "id": 2,
+          "name": "Beef",
+          "quantity": 500,
+          "unit": "g"
+        },
+        {
+          "id": 3,
+          "name": "Cheese",
+          "quantity": 200,
+          "unit": "g"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Pizza",
+      "imagePath": "recipe2.jpg",
+      "description": "Pizza with mushrooms",
+      "instruction": "Instruction",
+      "ingredients": [
+        {
+          "id": 1,
+          "name": "Tomato",
+          "quantity": 100,
+          "unit": "g"
+        },
+        {
+          "id": 3,
+          "name": "Cheese",
+          "quantity": 100,
+          "unit": "g"
+        },
+        {
+          "id": 4,
+          "name": "Flour",
+          "quantity": 400,
+          "unit": "g"
+        },
+        {
+          "id": 5,
+          "name": "Mushroom",
+          "quantity": 100,
+          "unit": "g"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Samosa",
+      "imagePath": "recipe3.jpg",
+      "description": "Triangular shaped flaky pastry filled with spicy potato and chicken",
+      "instruction": "Instruction",
+      "ingredients": [
+        {
+          "id": 4,
+          "name": "Flour",
+          "quantity": 300,
+          "unit": "g"
+        },
+        {
+          "id": 6,
+          "name": "Potato",
+          "quantity": 200,
+          "unit": "g"
+        },
+        {
+          "id": 7,
+          "name": "Chicken",
+          "quantity": 200,
+          "unit": "g"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Pork patty",
+      "imagePath": "recipe4.jpg",
+      "description": "This pork burger patties recipe will show you how to make pork burger patties the easiest way possible using basic ingredients",
+      "instruction": "Instruction",
+      "ingredients": [
+        {
+          "id": 8,
+          "name": "Pork",
+          "quantity": 300,
+          "unit": "g"
+        },
+        {
+          "id": 9,
+          "name": "Onion",
+          "quantity": 100,
+          "unit": "g"
+        },
+        {
+          "id": 10,
+          "name": "Garlic",
+          "quantity": 50,
+          "unit": "g"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Bacon roll",
+      "imagePath": "recipe5.jpg",
+      "description": "Description",
+      "instruction": "In a small skillet, saute onion in butter until tender. In a large bowl, combine the bread cubes, celery salt, garlic powder, salt, pepper and onion mixture; toss to mix evenly. Add egg; toss to coat bread cubes. Roll into ten 1-1/4-in. balls. Wrap a bacon strip around each ball. Secure with a toothpick.In a large skillet, cook bacon roll-ups on all sides over medium heat for 18 minutes or until bacon is crisp and a thermometer inserted into stuffing reads at least 160°. Drain on paper towels.",
+      "ingredients": [
+        {
+          "id": 9,
+          "name": "Onion",
+          "quantity": 100,
+          "unit": "g"
+        },
+        {
+          "id": 10,
+          "name": "Garlic",
+          "quantity": 50,
+          "unit": "g"
+        },
+        {
+          "id": 11,
+          "name": "Bacon",
+          "quantity": 300,
+          "unit": "g"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Potato salad with greens",
+      "imagePath": "recipe6.jpg",
+      "description": "Healthy salad with a lot of vegetables and greens",
+      "instruction": "Instruction",
+      "ingredients": [
+        {
+          "id": 9,
+          "name": "Onion",
+          "quantity": 50,
+          "unit": "g"
+        },
+        {
+          "id": 6,
+          "name": "Potato",
+          "quantity": 200,
+          "unit": "g"
+        },
+        {
+          "id": 12,
+          "name": "Carrot",
+          "quantity": 200,
+          "unit": "g"
+        },
+        {
+          "id": 13,
+          "name": "Lettuce",
+          "quantity": 100,
+          "unit": "g"
+        },
+        {
+          "id": 14,
+          "name": "Thyme",
+          "quantity": 30,
+          "unit": "g"
+        },
+        {
+          "id": 15,
+          "name": "basil",
+          "quantity": 100,
+          "unit": "g"
+        }
+      ]
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 1,
+      "name": "Tomato",
+      "quantity": 500,
+      "unit": "g"
+    },
+    {
+      "id": 2,
+      "name": "Beef",
+      "quantity": 500,
+      "unit": "g"
+    },
+    {
+      "id": 3,
+      "name": "Cheese",
+      "quantity": 200,
+      "unit": "g"
+    },
+    {
+      "id": 4,
+      "name": "Flour",
+      "quantity": 400,
+      "unit": "g"
+    },
+    {
+      "id": 5,
+      "name": "Mushroom",
+      "quantity": 100,
+      "unit": "g"
+    },
+    {
+      "id": 6,
+      "name": "Potato",
+      "quantity": 200,
+      "unit": "g"
+    },
+    {
+      "id": 7,
+      "name": "Chicken",
+      "quantity": 200,
+      "unit": "g"
+    },
+    {
+      "id": 8,
+      "name": "Pork",
+      "quantity": 300,
+      "unit": "g"
+    },
+    {
+      "id": 9,
+      "name": "Onion",
+      "quantity": 50,
+      "unit": "g"
+    },
+    {
+      "id": 10,
+      "name": "Garlic",
+      "quantity": 50,
+      "unit": "g"
+    },
+    {
+      "id": 11,
+      "name": "Bacon",
+      "quantity": 300,
+      "unit": "g"
+    },
+    {
+      "id": 12,
+      "name": "Carrot",
+      "quantity": 200,
+      "unit": "g"
+    },
+    {
+      "id": 13,
+      "name": "Lettuce",
+      "quantity": 100,
+      "unit": "g"
+    },
+    {
+      "id": 14,
+      "name": "Thyme",
+      "quantity": 30,
+      "unit": "g"
+    },
+    {
+      "id": 15,
+      "name": "basil",
+      "quantity": 100,
+      "unit": "g"
+    }
+  ]
+}
